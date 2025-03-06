@@ -9,9 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-Hi everyone! I am **Junhao Lu** (卢浚豪), a student at [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/). My major is Statistics, and I am very fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm),
-
-Hi everyone! I am Junhao Lu (卢浚豪), a student at the [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/), majoring in Statistics. I am fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm) and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning.
+Hi everyone! I am **Junhao Lu** (卢浚豪),, a student at the [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/), majoring in Statistics. I am fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm) and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning.
 I am actively seeking opportunities in related fields. If you find my background a good fit, please feel free to reach out to me!
 
 [Email](jhlu25@outlook.com) / [Github](https://github.com/lujunhao123) / 
