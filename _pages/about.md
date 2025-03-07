@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span class='anchor' id='about-me'></span>
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20junhao&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao&fontAlign=50)
 
 ## About Me
 
