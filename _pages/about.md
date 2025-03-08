@@ -21,14 +21,17 @@ I am actively seeking opportunities in related fields. If you find my background
 
 ## My Projects
 
+### American College Student Mathematical Modeling Contest
+
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
     <div style="flex: 2; padding-right: 20px;">
         <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 120%; height: auto;">
     </div>
     <div style="flex: 1;">
-        <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team. </strong>We tackled complex mathematical modeling problems, including predicting Olympic medal outcomes, with interval forecasting. <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+        <p><strong>My team participated in the American College Student Mathematical Modeling Contest (MCM/ICM),</strong> where we tackled complex mathematical modeling problems, including predicting Olympic medal outcomes and optimizing interval forecasting. We applied advanced statistical methods and machine learning techniques to improve prediction accuracy and balance the trade-off between coverage and interval predictions. <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
     </div>
 </div>
+
 
 
