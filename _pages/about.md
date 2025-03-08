@@ -45,7 +45,7 @@ I am actively seeking opportunities in related fields. If you find my background
     </div> 
 </div>
 
-(3) National College Student Market Research and Analysis Contest
+### (3) National College Student Market Research and Analysis Contest
 <div style="display: flex; align-items: center; margin-top: 15px;"> <!-- Left side: Image --> <div style="flex: 1.5; padding-right: 15px;"> <img src="../images/AAA/shidiao2024.png" alt="Project Image" style="width: 90%; height: auto;"> </div> <div style="flex: 2;"> <p><strong>Our team focused on analyzing the development and satisfaction of community health services in Dongguan City. We utilized Python for text mining from social media platforms like Weibo, Zhihu, and Xiaohongshu to assess public sentiment. Additionally, we conducted surveys across multiple districts to identify factors influencing residents' choice of healthcare providers.</strong> <a href="../images/AAB/shidiao2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p> </div> </div>
 
 
