@@ -19,6 +19,7 @@ I am actively seeking opportunities in related fields. If you find my background
 
 [Email](jhlu25@outlook.com) / [Github](https://github.com/lujunhao123) / 
 
+## My Interests
 Currently, I primarily focus on the application and theoretical research of deep learning and machine learning in data mining. In terms of application, I am interested in fields such as large-scale wind-solar power generation systems and meteorological data processing. Theoretically, I focus on the effectiveness and theoretical guarantees of these machine learning methods. My goal is to leverage these advanced technologies to analyze various types of data and provide intelligent optimization and decision support across multiple industries. Below are some cutting-edge research topics I am interested in:
 
 **1. Hierarchical Structure Recognition and Coordination in Large-Scale Data** In wind-solar power generation systems, we aim to develop a series of innovative neural network architectures and feature extraction techniques to achieve precise modeling. However, as the scale of wind-solar power generation systems increases, there are complex hierarchical (aggregated) relationships between large-scale wind farms, regional wind-solar farms, and wind-solar farm clusters. Ensuring that modeling methods adhere to hierarchical consistency is crucial for wind-solar integration. To address this challenge, we propose an efficient graph-based hierarchical coordination strategy.
