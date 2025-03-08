@@ -27,7 +27,7 @@ I am actively seeking opportunities in related fields. If you find my background
         <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 120%; height: auto;">
     </div>
     <div style="flex: 1;">
-        <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team. </strong>We tackled complex mathematical modeling problems, including predicting Olympic medal outcomes, with interval forecasting. <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+        <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team. </strong>We tackled complex mathematical modeling problems, including predicting Olympic medal outcomes, with interval forecasting. <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
     </div>
 </div>
 
