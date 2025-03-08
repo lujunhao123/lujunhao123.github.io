@@ -30,32 +30,39 @@ Currently, I primarily focus on the application and theoretical research of deep
 
 ## My Projects
 
-### (1) American College Student Mathematical Modeling Contest
+### (1) **American College Student Mathematical Modeling Contest**
 
 <div style="display: flex; align-items: center; margin-top: 15px;">
-    <!-- Left side: Image -->
     <div style="flex: 1.5; padding-right: 15px;">
         <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 90%; height: auto;">
     </div>
     <div style="flex: 2;">
-        <p><strong>My team tackled complex mathematical modeling problems, including predicting Olympic medal outcomes and optimizing interval forecasting. We applied advanced statistical methods and machine learning techniques to improve prediction accuracy and balance the trade-off between coverage and interval predictions.</strong> <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+        <p>My team tackled complex mathematical modeling problems, including predicting Olympic medal outcomes and optimizing interval forecasting. We applied advanced statistical methods and machine learning techniques to improve prediction accuracy and balance the trade-off between coverage and interval predictions. <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
     </div>
 </div>
 
-### (2) National College Student Statistical Modeling Contest
+### (2) **National College Student Statistical Modeling Contest**
 
 <div style="display: flex; align-items: center; margin-top: 15px;">
-    <!-- Left side: Image -->
     <div style="flex: 1.5; padding-right: 15px;">
         <img src="../images/AAA/STA2024.png" alt="Project Image" style="width: 90%; height: auto;">
     </div>
     <div style="flex: 2;">
-    <p><strong>Our team focused on mid-term multi-site collaborative weather forecasting. We proposed a BiLSTM model enhanced with a temporal convolutional attention mechanism (CBAM) to capture time-series dependencies and spatial correlations in weather data.</strong> <a href="../images/AAB/STA2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p> 
-    </div> 
+        <p>Our team focused on mid-term multi-site collaborative weather forecasting. We proposed a BiLSTM model enhanced with a temporal convolutional attention mechanism (CBAM) to capture time-series dependencies and spatial correlations in weather data. <a href="../images/AAB/STA2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+    </div>
 </div>
 
-### (3) National College Student Market Research and Analysis Contest
-<div style="display: flex; align-items: center; margin-top: 15px;"> <!-- Left side: Image --> <div style="flex: 1.5; padding-right: 15px;"> <img src="../images/AAA/shidiao2024.png" alt="Project Image" style="width: 90%; height: auto;"> </div> <div style="flex: 2;"> <p><strong>Our team focused on analyzing the development and satisfaction of community health services in Dongguan City. We utilized Python for text mining from social media platforms like Weibo, Zhihu, and Xiaohongshu to assess public sentiment. Additionally, we conducted surveys across multiple districts to identify factors influencing residents' choice of healthcare providers.</strong> <a href="../images/AAB/shidiao2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p> </div> </div>
+### (3) **National College Student Market Research and Analysis Contest**
+
+<div style="display: flex; align-items: center; margin-top: 15px;">
+    <div style="flex: 1.5; padding-right: 15px;">
+        <img src="../images/AAA/shidiao2024.png" alt="Project Image" style="width: 90%; height: auto;">
+    </div>
+    <div style="flex: 2;">
+        <p>Our team focused on analyzing the development and satisfaction of community health services in Dongguan City. We utilized Python for text mining from social media platforms like Weibo, Zhihu, and Xiaohongshu to assess public sentiment. Additionally, we conducted surveys across multiple districts to identify factors influencing residents' choice of healthcare providers. <a href="../images/AAB/shidiao2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+    </div>
+</div>
+
 
 
 
