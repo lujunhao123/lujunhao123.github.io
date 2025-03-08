@@ -38,7 +38,7 @@ I am actively seeking opportunities in related fields. If you find my background
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
     <div style="flex: 2; padding-right: 20px;">
-        <img src="../images/AAA/STA.png" alt="Project Image" style="width: 100%; height: auto;">
+        <img src="../images/AAA/STA2024.png" alt="Project Image" style="width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
     <p><strong>Our team focused on mid-term multi-site collaborative weather forecasting. We proposed a BiLSTM model enhanced with a temporal convolutional attention mechanism (CBAM) to capture time-series dependencies and spatial correlations in weather data.</strong> <a href="../images/AAB/STA2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p> 
