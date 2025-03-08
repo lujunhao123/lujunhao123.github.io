@@ -22,7 +22,7 @@ I am actively seeking opportunities in related fields. If you find my background
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
     <div style="flex: 1; padding-right: 20px;">
-        <img src="images/AAA/MCM.png" alt="Project Image" style="width: 100%; height: auto;">
+        <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 100%; height: auto;">
     </div>
     
     <!-- Right side: Question with Link -->
