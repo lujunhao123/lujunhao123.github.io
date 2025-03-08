@@ -21,7 +21,7 @@ I am actively seeking opportunities in related fields. If you find my background
 
 ## My Projects
 
-### <span style="color: #0077b6; border-bottom: 2px solid #0077b6;">(1) American College Student Mathematical Modeling Contest</span>
+### (1) American College Student Mathematical Modeling Contest
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
@@ -33,17 +33,12 @@ I am actively seeking opportunities in related fields. If you find my background
     </div>
 </div>
 
-### <span style="color: #0077b6; border-bottom: 2px solid #0077b6;">(1) American College Student Mathematical Modeling Contest</span>
+### (2) National College Student Statistical Modeling Contest
 
-<div style="display: flex; align-items: center; margin-top: 20px;">
-    <!-- Left side: Image -->
-    <div style="flex: 2; padding-right: 20px;">
-        <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 100%; height: auto;">
-    </div>
-    <div style="flex: 1;">
-        <p><strong>My team tackled complex mathematical modeling problems, including predicting Olympic medal outcomes and optimizing interval forecasting. We applied advanced statistical methods and machine learning techniques to improve prediction accuracy and balance the trade-off between coverage and interval predictions.</strong> <a href="../images/AAB/2523765.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
-    </div>
-</div>
+<div style="display: flex; align-items: center; margin-top: 20px;"> <!-- Left side: Image --> 
+  <div style="flex: 2; padding-right: 20px;"> <img src="../images/AAA/STA.png" alt="Project Image" style="width: 100%; height: auto;"> 
+  </div> <div style="flex: 1;"> 
+    <p><strong>Our team focused on mid-term multi-site collaborative weather forecasting. We proposed a BiLSTM model enhanced with a temporal convolutional attention mechanism (CBAM) to capture time-series dependencies and spatial correlations in weather data.</strong> <a href="../images/AAB/STA2024.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p> </div> </div>
 
 
 
