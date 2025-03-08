@@ -9,6 +9,8 @@ redirect_from:
 ---
 <!--<span class='anchor' id='about-me'></span>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao😚&fontAlign=50)-->
+<span class='anchor' id='about-me'></span>
+<img src="../images/AAA/Hello.png" alt="Header Image" />
 
 ## About Me
 
