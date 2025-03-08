@@ -26,9 +26,9 @@ I am actively seeking opportunities in related fields. If you find my background
     </div>
 <div style="flex: 2;">
     <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Zhihao Zhong, and Xiaoling Chen.</strong></p>
-    <p>In this competition, we addressed complex mathematical modeling problems, applying advanced optimization techniques and theoretical analysis to derive optimal solutions. Our work involved model construction, in-depth problem understanding, and results optimization, enhancing both our technical skills and collaborative efforts.</p>
-    <p><strong>Have you ever wondered how AI can revolutionize energy systems?</strong></p>
-    <p>Explore my research on integrating AI techniques to optimize energy system predictions and planning.</p>
+    <p>In this competition, we tackled complex mathematical modeling problems, applying advanced techniques such as multi-objective optimization, machine learning, and statistical modeling. One key task involved predicting Olympic medal counts, where we combined data analysis with the Knee-NSGA2-XGBoost model to balance prediction coverage and accuracy. Our work also involved understanding the influence of factors like economic development and host country effects on medal outcomes, which was crucial for optimizing our predictions.</p>
+<p><strong>Have you ever wondered how AI can predict Olympic medal outcomes?</strong></p>
+<p>Explore my research on combining modern statistical methods and machine learning techniques to predict Olympic medal counts. My work includes advanced modeling, such as the Knee-NSGA2-XGBoost model, to optimize prediction accuracy and balance the trade-off between prediction coverage and interval forecasting.</p>
     <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a>
 </div>
 
