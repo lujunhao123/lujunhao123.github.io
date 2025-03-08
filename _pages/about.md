@@ -19,6 +19,16 @@ I am actively seeking opportunities in related fields. If you find my background
 
 [Email](jhlu25@outlook.com) / [Github](https://github.com/lujunhao123) / 
 
+Currently, I primarily focus on the application and theoretical research of deep learning and machine learning in data mining. In terms of application, I am interested in fields such as large-scale wind-solar power generation systems and meteorological data processing. Theoretically, I focus on the effectiveness and theoretical guarantees of these machine learning methods. My goal is to leverage these advanced technologies to analyze various types of data and provide intelligent optimization and decision support across multiple industries. Below are some cutting-edge research topics I am interested in:
+
+Hierarchical Structure Recognition and Coordination in Large-Scale Data
+In wind-solar power generation systems, we aim to develop a series of innovative neural network architectures and feature extraction techniques to achieve precise modeling. However, as the scale of wind-solar power generation systems increases, there are complex hierarchical (aggregated) relationships between large-scale wind farms, regional wind-solar farms, and wind-solar farm clusters. Ensuring that modeling methods adhere to hierarchical consistency is crucial for wind-solar integration. To address this challenge, we propose an efficient graph-based hierarchical coordination strategy.
+
+Application of Graph Neural Networks in Financial Fraud Detection
+Financial fraud detection is an important task in the financial sector. Traditional machine learning methods usually focus on anomaly detection in individual transactions. However, as fraudulent techniques become more complex, these methods often fail to effectively identify multidimensional fraudulent behaviors. Graph Neural Networks (GNNs) offer significant advantages in this regard, as financial transactions often form a complex network involving multiple accounts, transactions, fund flows, etc. These pieces of information are interconnected in multi-layered and multidimensional ways.
+
+Statistical Theory of Change Point Detection in Deep Learning
+Change point detection in time series or other data streams, which involves identifying distribution changes (i.e., change points), is of great importance. Traditional change point detection methods are based on statistical principles, such as maximum likelihood estimation and CUSUM (cumulative sum). However, with the development of deep learning techniques, researchers are exploring how to combine deep learning models with change point detection to enhance performance and overcome the limitations of traditional methods. But when applying new neural networks to change point detection, do they still provide theoretical guarantees? Are there limitations? Can we develop a change point detection network that comes with a theoretical guarantee?
 ## My Projects
 
 ### (1) American College Student Mathematical Modeling Contest
