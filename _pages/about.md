@@ -26,10 +26,11 @@ I am actively seeking opportunities in related fields. If you find my background
     </div>
 <div style="flex: 2;">
     <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Zhihao Zhong, and Xiaoling Chen.</strong></p>
-    <p>We tackled complex mathematical modeling problems, leveraging our strengths to develop solutions. Through in-depth problem analysis, model building, and optimization, we gained valuable experience in both technical and collaborative aspects.</p>
-    <p><strong>Curious about how AI can transform energy systems?</strong></p>
-    <p>Check out my research on this topic.</p>
+    <p>In this competition, we addressed complex mathematical modeling problems, applying advanced optimization techniques and theoretical analysis to derive optimal solutions. Our work involved model construction, in-depth problem understanding, and results optimization, enhancing both our technical skills and collaborative efforts.</p>
+    <p><strong>Have you ever wondered how AI can revolutionize energy systems?</strong></p>
+    <p>Explore my research on integrating AI techniques to optimize energy system predictions and planning.</p>
     <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a>
 </div>
+
 
 </div>
