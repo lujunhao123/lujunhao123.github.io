@@ -21,8 +21,7 @@ I am actively seeking opportunities in related fields. If you find my background
 
 ## My Projects
 
-### American College Student Mathematical Modeling Contest
-
+### <span style="color: #0077b6; border-bottom: 2px solid #0077b6;">(1) American College Student Mathematical Modeling Contest</span>
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
     <div style="flex: 2; padding-right: 20px;">
