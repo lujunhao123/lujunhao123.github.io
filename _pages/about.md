@@ -23,13 +23,14 @@ I am actively seeking opportunities in related fields. If you find my background
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
     <!-- Left side: Image -->
-    <div style="flex: 1; padding-right: 20px;">
-        <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 120%; height: auto;">
+    <div style="flex: 2; padding-right: 20px;">
+        <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 150%; height: auto;">
     </div>
-    <div style="flex: 2;">
-        <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Wei Zhong, and Yuying Xu. </strong>In this competition, we tackled complex mathematical modeling problems, including predicting Olympic medal outcomes. My research combined modern statistical methods and machine learning techniques, such as the Knee-NSGA2-XGBoost model, to optimize prediction accuracy and balance the trade-off between prediction coverage and interval forecasting. <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
+    <div style="flex: 1;">
+        <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Wei Zhong, and Yuying Xu. </strong>We tackled complex mathematical modeling problems, including predicting Olympic medal outcomes. My research combined statistical methods and machine learning techniques, such as the Knee-NSGA2-XGBoost model, to optimize prediction accuracy and balance prediction coverage with interval forecasting. <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a></p>
     </div>
 </div>
+
 
 
 
