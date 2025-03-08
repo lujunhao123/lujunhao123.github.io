@@ -25,8 +25,7 @@ I am actively seeking opportunities in related fields. If you find my background
         <img src="../images/AAA/MCM.png" alt="Project Image" style="width: 100%; height: auto;">
     </div>
 <div style="flex: 2;">
-    <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Zhihao Zhong, and Xiaoling Chen.</strong></p>
-    <p>In this competition, we tackled complex mathematical modeling problems, applying advanced techniques such as multi-objective optimization, machine learning, and statistical modeling. One key task involved predicting Olympic medal counts, where we combined data analysis with the Knee-NSGA2-XGBoost model to balance prediction coverage and accuracy. Our work also involved understanding the influence of factors like economic development and host country effects on medal outcomes, which was crucial for optimizing our predictions.</p>
+    <p><strong>My participation in the American College Student Mathematical Modeling Contest (MCM/ICM) involved my team, "O winner," with members Junhao Lu, Wei Zhong, and Yuying Xu.</strong></p>
 <p><strong>Have you ever wondered how AI can predict Olympic medal outcomes?</strong></p>
 <p>Explore my research on combining modern statistical methods and machine learning techniques to predict Olympic medal counts. My work includes advanced modeling, such as the Knee-NSGA2-XGBoost model, to optimize prediction accuracy and balance the trade-off between prediction coverage and interval forecasting.</p>
     <a href="your-pdf-link.pdf" target="_blank" style="color: #0077b6; text-decoration: none;">Download the PDF to learn more</a>
