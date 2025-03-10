@@ -64,14 +64,6 @@ Currently, I primarily focus on the application and theoretical research of deep
 </div>
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-XXXXXXXXX-X');
-</script>
-
 
 
 
