@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 <!--<span class='anchor' id='about-me'></span>
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao😚&fontAlign=50)-->
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao😚&fontAlign=50)
+ [CV](../assets/English_Resume.pdf) 
+-->
 <span class='anchor' id='about-me'></span>
 <img src="../images/AAA/Hello.png" alt="Header Image" />
 
@@ -17,7 +19,7 @@ redirect_from:
 Hi everyone! I am **Junhao Lu (卢浚豪)**, a student at the [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/), majoring in Statistics. I am fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm) and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning.
 I am actively seeking opportunities in related fields. If you find my background a good fit, please feel free to reach out to me!
 
-[Email](jhlu25@outlook.com) / [Github](https://github.com/lujunhao123) / [CV](../assets/English_Resume.pdf) / 
+[Email](jhlu25@outlook.com) / [Github](https://github.com/lujunhao123) / 
 
 ## My Interests
 Currently, I primarily focus on the application and theoretical research of deep learning and machine learning in data mining. In terms of application, I am interested in fields such as large-scale wind-solar power generation systems and meteorological data processing. Theoretically, I focus on the effectiveness and theoretical guarantees of these machine learning methods. My goal is to leverage these advanced technologies to analyze various types of data and provide intelligent optimization and decision support across multiple industries. Below are some cutting-edge research topics I am interested in:
