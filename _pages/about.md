@@ -16,7 +16,7 @@ redirect_from:
 
 ## About Me
 
-Hi everyone! I am Junhao Lu (卢浚豪), a student at the School of Economics and Statistics, Guangzhou University, majoring in Statistics. I am fortunate to be supervised by Prof. Jianming Hu and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning, with a particular focus on integrating large language models (LLMs) into energy forecasting and decision-making.
+Hi everyone! I am **Junhao Lu (卢浚豪)**, a student at the [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/), majoring in Statistics. I am fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm) and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning, with a particular focus on integrating large language models (LLMs) into energy forecasting and decision-making.
 
 In my recent work, I have explored the use of LLMs for enhancing energy system analytics, leveraging their ability to process multimodal data, extract latent patterns, and improve interpretability in complex forecasting tasks. By incorporating transformer-based architectures and probabilistic modeling, I aim to develop more robust and scalable AI-driven energy solutions.
 
