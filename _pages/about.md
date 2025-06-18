@@ -11,9 +11,13 @@ redirect_from:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao😚&fontAlign=50)
  [CV](../assets/English_Resume.pdf) 
 -->
-<span class='anchor' id='about-me'></span>
+<!--<span class='anchor' id='about-me'></span>
 <img src="../images/AAA/Hello.png" alt="Header Image" />
+--->
 
+--<span class='anchor' id='about-me'></span>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20I‘m%20Junhao😚&fontAlign=50)
+ 
 ## About Me
 
 Hi everyone! I am **Junhao Lu (卢浚豪)**, a student at the [School of Economics and Statistics, Guangzhou University](https://www.gzhu.edu.cn/), majoring in Statistics. I am fortunate to be supervised by [**Prof. Jianming Hu**](https://sms.hainanu.edu.cn/info/1571/5701.htm) and have been conducting interdisciplinary research on renewable energy and AI under his guidance. My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning, with a particular focus on integrating large language models (LLMs) into energy forecasting and decision-making.
@@ -31,7 +35,6 @@ Currently, I primarily focus on the application and theoretical research of deep
 
 **2. Application of Graph Neural Networks in Financial Fraud Detection** Financial fraud detection is an important task in the financial sector. Traditional machine learning methods usually focus on anomaly detection in individual transactions. However, as fraudulent techniques become more complex, these methods often fail to effectively identify multidimensional fraudulent behaviors. Graph Neural Networks (GNNs) offer significant advantages in this regard, as financial transactions often form a complex network involving multiple accounts, transactions, fund flows, etc. These pieces of information are interconnected in multi-layered and multidimensional ways.
 
-**3. Statistical Theory of Change Point Detection in Deep Learning** Change point detection in time series or other data streams, which involves identifying distribution changes (i.e., change points), is of great importance. Traditional change point detection methods are based on statistical principles, such as maximum likelihood estimation and CUSUM (cumulative sum). However, with the development of deep learning techniques, researchers are exploring how to combine deep learning models with change point detection to enhance performance and overcome the limitations of traditional methods. But when applying new neural networks to change point detection, do they still provide theoretical guarantees? Are there limitations? Can we develop a change point detection network that comes with a theoretical guarantee?
 
 ## My Projects
 
