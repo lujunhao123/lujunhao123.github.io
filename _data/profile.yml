@@ -1,6 +1,6 @@
 primary_name: "Junhao Lu"
-secondary_name: ""
-navbar_name: "卢浚豪"
+secondary_name: "卢浚豪"
+navbar_name: "Junhao Lu"
 
 positions:
 #- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -25,11 +25,7 @@ short_bio: >-
     A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-
-    Hi everyone! I am Junhao Lu (卢浚豪), 
+    Hi everyone! I am Junhao Lu, 
     a student at the School of Economics and Statistics, Guangzhou University, majoring in Statistics. 
     I am fortunate to be supervised by Prof. <a href="https://sms.hainanu.edu.cn/info/1571/5701.htm" target="_blank">Jianming Hu</a>. and have been conducting interdisciplinary research on renewable energy and AI under his guidance. 
     My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning, with a particular focus on integrating large language models (LLMs) into energy forecasting and decision-making.
@@ -52,12 +48,17 @@ experience:
 - name: Hainan University
   logo: /assets/images/badges/Hainan_University.png
   position: Research Intern
-  date: Jan. 2024 - present
+  date: Sept. 2024 - present
 
 - name: ZWSOFT
-  logo: /assets/images/badges/ZWSOFT.png
-  position: Research Intern
+  #logo: /assets/images/badges/ZWSOFT.png
+  position: Machine Learning Intern
   date: Mar. 2025 - Jun. 2025
+
+- name: Guangzhou University
+  logo: /assets/images/badges/Guangzhou_University.jpg
+  position: Research Intern
+  date: Nov. 2023 - Sept. 2024
 
 awards:
 - name: Provincial First Prize in National Market Research and Analysis Competition
