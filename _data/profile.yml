@@ -50,14 +50,14 @@ education:
 
 experience:
 - name: Hainan University
-   logo: /assets/images/badges/Hainan_University.png
-   position: Research Intern
-   date: Jan. 2024 - present
+  logo: /assets/images/badges/Hainan_University.png
+  position: Research Intern
+  date: Jan. 2024 - present
 
 - name: ZWSOFT
-   logo: /assets/images/badges/ZWSOFT.png
-   position: Research Intern
-   date: Mar. 2025 - Jun. 2025
+  logo: /assets/images/badges/ZWSOFT.png
+  position: Research Intern
+  date: Mar. 2025 - Jun. 2025
 
 awards:
 - name: Provincial First Prize in National Market Research and Analysis Competition
