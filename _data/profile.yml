@@ -41,7 +41,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Guangzhou University
-  logo: /assets/images/badges/Guangzhou University.jpg
+  logo: /assets/images/badges/Guangzhou_University.jpg
   position: >- 
     School of Economics and Statistics <br/>
     B.S. in Statistics
@@ -50,7 +50,7 @@ education:
 
 experience:
 - name: Hainan University
-   logo: /assets/images/badges/Hainan University.png
+   logo: /assets/images/badges/Hainan_University.png
    position: Research Intern
    date: Jan. 2024 - present
 
