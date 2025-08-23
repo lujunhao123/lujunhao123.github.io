@@ -9,7 +9,7 @@ pub_date:       "2025"
 
 abstract: >-
   We propose an interpretable spectral graph framework for financial fraud detection that tackles imbalance and adversarial challenges, achieving superior accuracy and robustness on benchmark datasets.
-cover:          /assets/images/covers/IFDetector.png
+cover:          /assets/images/covers/IFDetector1.png
 authors:
   - Junhao Lu
   - Qiupeng Xu
