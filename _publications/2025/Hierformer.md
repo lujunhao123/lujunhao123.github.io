@@ -9,7 +9,7 @@ pub_post:       ' Under review. '
 pub_date:       "2025"
 
 abstract: >-
-  This work introduces a spatio-temporal hierarchical forecasting framework that ensures consistent and accurate multi-level probabilistic wind power prediction, achieving superior performance on real-world datasets.
+  This work introduces a spatio-temporal hierarchical forecasting framework that ensures consistent and accurate multi-level probabilistic wind power prediction.
 cover:          /assets/images/covers/Hierformer1.png
 authors:
   - Jianminig Hu
