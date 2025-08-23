@@ -3,7 +3,8 @@ title:          "Spatio-temporal hierarchical forecasting using group-feature gr
 date:           2025-06-07 6:01:00 +0800
 selected:       true
 pub:            "Information Sciences"
-pub_pre:        "Submitted to"
+# pub_pre:        "Submitted to"
+pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
