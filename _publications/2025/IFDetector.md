@@ -3,7 +3,7 @@ title:          "A novel graph learning framework for interpretable and imbalanc
 date:           2025-06-19 6:01:00 +0800
 selected:       true
 pub:            "Engineering Applications of Artificial Intelligence"
-pub_post:       'Under review.'
+pub_post:       ' Under review. '
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Q1</span>'
 pub_date:       "2025"
 
