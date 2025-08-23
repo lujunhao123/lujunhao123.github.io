@@ -1,4 +1,3 @@
-
 ---
 title:          "Spatio-temporal hierarchical forecasting using group-feature graph convolutional network for probabilistic wind power prediction"
 date:           2025
