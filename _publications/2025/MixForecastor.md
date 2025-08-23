@@ -3,6 +3,7 @@ title:          "MixForecastor: A fusion framework for multi-task forecasting of
 date:           2025-08-13 00:01:00 +0800
 selected:       true
 pub:            "Information Fusion"
+pub_pre:        "Submitted to "
 pub_date:       "2025"
 abstract: >-
   We propose MixForecastor, a multi-task framework for mixed time series forecasting that unifies continuous wind power prediction and discrete ramp event prediction, showing superior performance on real-world datasets.
@@ -10,6 +11,7 @@ abstract: >-
 cover:          /assets/images/covers/MixForecastor.png
 authors:
   - Jianming Hu*
-  - Junhao Lu*#
+  - Junhao Lu{*,#}
   - Jingwei Tang
 ---
+
