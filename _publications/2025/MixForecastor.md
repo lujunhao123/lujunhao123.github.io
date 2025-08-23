@@ -7,7 +7,7 @@ pub_date:       "2025"
 abstract: >-
   We propose MixForecastor, a multi-task framework for mixed time series forecasting that unifies continuous wind power prediction and discrete ramp event prediction, showing superior performance on real-world datasets.
 
-cover:          /assets/images/covers/cover2.jpg
+cover:          /assets/images/covers/MixForecastor.png
 authors:
   - Jianming Hu*
   - Junhao Lu*#
