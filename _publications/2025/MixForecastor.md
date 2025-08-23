@@ -11,7 +11,7 @@ abstract: >-
 cover:          /assets/images/covers/MixForecastor.png
 authors:
   - Jianming Hu*
-  - Junhao Lu{*,#}
+  - Junhao Lu*#
   - Jingwei Tang
 ---
 
