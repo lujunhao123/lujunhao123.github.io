@@ -6,7 +6,7 @@ pub:            "Information Fusion"
 pub_pre:        "Submitted to "
 pub_date:       "2025"
 abstract: >-
-  We propose MixForecastor, a multi-task framework for mixed time series forecasting that unifies continuous wind power prediction and discrete ramp event prediction, showing superior performance on real-world datasets.
+  We propose MixForecastor, a multi-task framework for mixed time series forecasting that unifies continuous wind power prediction and discrete ramp event prediction.
 
 cover:          /assets/images/covers/MixForecastor.png
 authors:
