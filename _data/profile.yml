@@ -27,7 +27,7 @@ short_bio: >-
     I am fortunate to be supervised by Prof. <a href="https://sms.hainanu.edu.cn/info/1571/5701.htm" target="_blank">Jianming Hu</a>. and have been conducting interdisciplinary research on renewable energy and AI under his guidance. 
     My research interests lie in novel energy systems, spatiotemporal forecasting, and deep learning, with a particular focus on integrating large language models (LLMs) into energy forecasting and decision-making.
   </p>
-portrait_url: /assets/images/photos/me.png
+#portrait_url: 
 #portrait_caption: >-
 #  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
