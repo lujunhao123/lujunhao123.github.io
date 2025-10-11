@@ -15,7 +15,7 @@ authors:
   - Qiupeng Xu
   - Jianming Hu
 links:
-  Code: https://github.com/lujunhao123/IFDetector
+#  Code: https://github.com/lujunhao123/IFDetector
 ---
 
 
