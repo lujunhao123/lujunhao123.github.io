@@ -14,6 +14,6 @@ authors:
   - Junhao Lu*#
   - Jingwei Tang
 links:
-#  Code: https://github.com/lujunhao123/MixForecastor
+  Code: https://github.com/lujunhao123/MixForecastor
 ---
 
