@@ -1,5 +1,5 @@
 ---
-title:          "MixForecastor: A fusion framework for multi-task forecasting of wind power and ramp events from mixed time series"
+title:          "Mixed time series pattern learning for multi-task wind power and ramp event forecasting"
 date:           2025-08-13 00:01:00 +0800
 selected:       true
 # pub:            "Information Fusion"
