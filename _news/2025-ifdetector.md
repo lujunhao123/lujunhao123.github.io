@@ -1,6 +1,6 @@
 ---
 title: >-
-    🔥I Submitted my manuscript as the first author on explainable financial fraud detection, currently under peer review
-    <span class="badge badge-pill badge-info">Featured</span>
-date: 2025-06-19 18:30:00 +0200
+    🎉 My manuscript on explainable financial fraud detection has been accepted by EAAI
+    <span class="badge badge-pill badge-success">Accepted</span>
+date: 2025-12-30 18:30:00 +0200
 ---
