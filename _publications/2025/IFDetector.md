@@ -11,7 +11,7 @@ abstract: >-
   We propose an interpretable spectral graph learning framework for financial fraud detection that tackles severe class imbalance and adversarial behaviors, enhances minority representation, improves robustness, and offers built-in interpretability.
 
 
-cover:          /assets/images/covers/IFDetector1.png
+cover:          /assets/images/covers/IFDetector3.png
 
 authors:
   - Junhao Lu
