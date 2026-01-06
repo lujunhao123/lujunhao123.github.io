@@ -1,0 +1,22 @@
+/* ===== Publication list image vertical center ===== */
+
+.media.stream-item {
+  display: flex;
+  align-items: center !important;   /* 整个条目 垂直居中 */
+}
+
+/* 让左侧图片容器可以居中 */
+.media.stream-item .figure,
+.media.stream-item .article-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 图片本身保持良好居中效果 */
+.media.stream-item img {
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+  height: 100%;
+}
