@@ -8,7 +8,8 @@ pub_date:       "2025"
 # pub_last:       '<span class="badge badge-pill badge-publication badge-success">Q1</span>'
 
 abstract: >-
-We propose an interpretable spectral graph learning framework for financial fraud detection that tackles severe class imbalance and adversarial behaviors, enhances minority representation, improves robustness, and offers built-in interpretability.
+  We propose an interpretable spectral graph learning framework for financial fraud detection that tackles severe class imbalance and adversarial behaviors, enhances minority representation, improves robustness, and offers built-in interpretability.
+
 
 cover:          /assets/images/covers/IFDetector.png
 
