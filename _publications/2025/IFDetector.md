@@ -1,21 +1,24 @@
 ---
-title:          "A novel graph learning framework for interpretable and imbalance financial fraud detection"
-date:           2025-12-30 6:01:00 +0800
+title:          "A novel graph learning framework for interpretable and imbalanced financial fraud detection"
+date:           2025-12-30 06:01:00 +0800
 selected:       true
-# pub:            "Engineering Applications of Artificial Intelligence"
-pub_post:       'https://doi.org/10.1016/j.engappai.2025.113709'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Q1</span>'
+
+pub:            "Engineering Applications of Artificial Intelligence"
 pub_date:       "2025"
+# pub_last:       '<span class="badge badge-pill badge-publication badge-success">Q1</span>'
 
 abstract: >-
-  We propose an interpretable spectral graph framework for financial fraud detection that tackles imbalance and adversarial challenges.
+  We propose an interpretable spectral graph learning framework for financial fraud detection, 
+  designed to effectively address data imbalance and adversarial challenges in real-world applications.
+
 cover:          /assets/images/covers/IFDetector.png
+
 authors:
   - Junhao Lu
   - Qiupeng Xu
   - Jianming Hu
+
 links:
-#  Code: https://github.com/lujunhao123/IFDetector
+  Paper: https://doi.org/10.1016/j.engappai.2025.113709
+  # Code: https://github.com/lujunhao123/IFDetector
 ---
-
-
