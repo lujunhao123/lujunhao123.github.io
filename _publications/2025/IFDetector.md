@@ -1,6 +1,6 @@
 ---
 title:          "A novel graph learning framework for interpretable and imbalance financial fraud detection"
-date:           2025-06-19 6:01:00 +0800
+date:           2025-12-30 6:01:00 +0800
 selected:       true
 # pub:            "Engineering Applications of Artificial Intelligence"
 pub_post:       'https://doi.org/10.1016/j.engappai.2025.113709'
