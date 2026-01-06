@@ -3,7 +3,7 @@ title:          "Mixed time series pattern learning for multi-task wind power an
 date:           2025-08-13 00:01:00 +0800
 selected:       true
 # pub:            "Pattern Recognition"
-pub_pre:        "Under Review "
+pub_pre:        "Under Review."
 pub_date:       "2025"
 abstract: >-
   We propose MixForecastor, a multi-task framework for mixed time series forecasting that unifies continuous wind power prediction and discrete ramp event prediction.
