@@ -9,7 +9,7 @@ positions:
 
 
 email: "jhlu25@outlook.com"
-cv_link: /assets/Junhao Lu-CV.pdf
+cv_link: /assets/Lu Junhao-CV.pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: lujunhao123
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -22,7 +22,7 @@ orcid: 0009-0001-5807-4446
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Hi everyone! I am Junhao Lu, a student at the School of Economics and Statistics, Guangzhou University, majoring in Statistics. I am fortunate to be supervised by Prof. <a href="https://sms.hainanu.edu.cn/info/1701/7161.htm" target="_blank">Jianming Hu</a>, under whose guidance I have been conducting interdisciplinary research at the intersection of renewable energy and artificial intelligence. My research interests include smart grids, spatio-temporal learning, and probabilistic modeling, with a particular focus on integrating reasoning-enabled large language models (LLMs) into energy forecasting and decision-making.
+  Hi everyone! I am Junhao Lu, a student at the School of Economics and Statistics, Guangzhou University, majoring in Statistics. I am fortunate to be supervised by Prof. <a href="https://sms.hainanu.edu.cn/info/1701/7161.htm" target="_blank">Jianming Hu</a>, under whose guidance I have been conducting interdisciplinary research at the intersection of renewable energy and artificial intelligence. My research interests include <strong>Smart grids</strong>, <strong>Spatio-temporal learning</strong>, and <strong>Probabilistic modeling</strong>, with a particular focus on integrating easoning-capable large language models (LLMs) into energy forecasting and decision-making.
   </p>
 #portrait_url: 
 #portrait_caption: >-
