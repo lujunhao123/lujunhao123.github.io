@@ -15,6 +15,6 @@ authors:
   - Jingwei Tang
 links:
   Code: https://github.com/lujunhao123/MixForecastor
-  Manuscript: /assets/Writing Sample-Mixed time series pattern learning for multi-task wind.pfd
+  Manuscript: /assets/Writing Sample-Mixed time series pattern learning for multi-task wind.pdf
 ---
 
